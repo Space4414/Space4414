@@ -6,21 +6,13 @@
 
 <br/>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.gif" width="40" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="40" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="40" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f99a/512.gif" width="40" />
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="40" />
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Space4414&style=for-the-badge&color=f472b6&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/Space4414?style=for-the-badge&logo=github&color=302b63&labelColor=1e1b4b" />
 <img src="https://img.shields.io/badge/Setup-Phone_Only_📱-8B5CF6?style=for-the-badge&labelColor=1e1b4b" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=320&lines=👋+About+Me" />
 
@@ -28,15 +20,19 @@
 + Vibe coder 🎧
 + Android apps built entirely from my phone 📱
 + Huawei P9 Lite • Android 7 • 16GB
-+ Fueled by AI, manga and good music.
++ Fueled by AI, manga and good music
+- 0 lines of code written by hand
 - 0 PCs involved
 ```
 
 I tell the AI what to build, test it, break it, fix it, and ship it. Somehow that turned into an app with **1,200+ downloads**. 🌙
 
+<!-- WAIFU SLOT: upload your own pic/GIF to this repo as waifu.gif,
+     then delete this comment line and the closing one below.
 <div align="center">
   <img src="waifu.gif" width="260" />
 </div>
+-->
 
 <div align="center">
 
@@ -51,7 +47,7 @@ I tell the AI what to build, test it, break it, fix it, and ship it. Somehow tha
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=420&lines=🚀+Featured+Projects" />
 
@@ -66,7 +62,7 @@ I tell the AI what to build, test it, break it, fix it, and ship it. Somehow tha
 
 </div>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.gif" width="28" /> Tsuki: Android Manga Reader
+### 🌙 Tsuki: Android Manga Reader
 
 A manga reader built to **never run out of sources**.
 
@@ -86,11 +82,11 @@ A manga reader built to **never run out of sources**.
 
 </div>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f99a/512.gif" width="28" /> Kujaku: Coming Soon
+### 🦚 Kujaku: Coming Soon
 
 A new manga reader in the works, built on **Dantotsu**. 👀
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=450&lines=⭐+Tsuki+in+Numbers" />
 
@@ -103,7 +99,7 @@ A new manga reader in the works, built on **Dantotsu**. 👀
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=360&lines=🛠️+Tech+Stack" />
 
@@ -122,7 +118,7 @@ A new manga reader in the works, built on **Dantotsu**. 👀
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=400&lines=📊+GitHub+Activity" />
 
@@ -144,7 +140,7 @@ A new manga reader in the works, built on **Dantotsu**. 👀
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=320&lines=🎯+Right+Now" />
 
