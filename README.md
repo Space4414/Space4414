@@ -28,19 +28,15 @@
 + Vibe coder 🎧
 + Android apps built entirely from my phone 📱
 + Huawei P9 Lite • Android 7 • 16GB
-+ Fueled by AI, manga and good music
-- 0 lines of code written by hand
++ Fueled by AI, manga and good music.
 - 0 PCs involved
 ```
 
 I tell the AI what to build, test it, break it, fix it, and ship it. Somehow that turned into an app with **1,200+ downloads**. 🌙
 
-<!-- WAIFU SLOT: upload your favorite pic/GIF to this repo as waifu.gif,
-     then delete this comment line and the closing one below.
 <div align="center">
   <img src="waifu.gif" width="260" />
 </div>
--->
 
 <div align="center">
 
