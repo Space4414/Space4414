@@ -6,15 +6,15 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Space4414&style=for-the-badge&color=f472b6&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/Space4414?style=for-the-badge&logo=github&color=302b63&labelColor=1e1b4b" />
 <img src="https://img.shields.io/badge/Setup-Phone_Only_📱-8B5CF6?style=for-the-badge&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Based_in-Bangladesh_🇧🇩-f472b6?style=for-the-badge&labelColor=1e1b4b" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=320&lines=👋+About+Me" />
+## 👋 About Me
 
 ```diff
 + Vibe coder 🎧
@@ -27,14 +27,11 @@
 
 I tell the AI what to build, test it, break it, fix it, and ship it. Somehow that turned into an app with **1,200+ downloads**. 🌙
 
-<!-- WAIFU SLOT: upload your own pic/GIF to this repo as waifu.gif,
-     then delete this comment line and the closing one below.
 <div align="center">
-  <img src="waifu.gif" width="260" />
-</div>
--->
 
-<div align="center">
+<img src="waifu.gif" width="280" alt="waifu" />
+
+<br/><br/>
 
 ![Weeb](https://img.shields.io/badge/WEEB_LEVEL-OVER_9000-f472b6?style=for-the-badge&logo=crunchyroll&logoColor=white&labelColor=1e1b4b)
 ![Manga](https://img.shields.io/badge/MANGA-READ_DAILY-a78bfa?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=1e1b4b)
@@ -47,24 +44,25 @@ I tell the AI what to build, test it, break it, fix it, and ship it. Somehow tha
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=420&lines=🚀+Featured+Projects" />
+## 🚀 Projects
+
+### 🌙 [Tsuki](https://github.com/TsukiAndroid/Tsuki): Android Manga Reader
+
+A manga reader built to **never run out of sources**.
 
 <div align="center">
 
-<a href="https://github.com/TsukiAndroid/Tsuki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TsukiAndroid&repo=Tsuki&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=F472B6&icon_color=A78BFA" width="48%" />
-</a>
-<a href="https://github.com/Space4414/Kujaku">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Space4414&repo=Kujaku&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=F472B6&icon_color=A78BFA" width="48%" />
-</a>
+<a href="https://github.com/TsukiAndroid/Tsuki/stargazers"><img src="https://img.shields.io/github/stars/TsukiAndroid/Tsuki?style=for-the-badge&logo=github&color=F472B6&labelColor=1e1b4b&label=STARS" /></a>
+<a href="https://github.com/TsukiAndroid/Tsuki/fork"><img src="https://img.shields.io/github/forks/TsukiAndroid/Tsuki?style=for-the-badge&logo=github&color=A78BFA&labelColor=1e1b4b&label=FORKS" /></a>
+<img src="https://img.shields.io/badge/DOWNLOADS-1.2K%2B-ec4899?style=for-the-badge&logo=android&logoColor=white&labelColor=1e1b4b" />
+<a href="https://github.com/TsukiAndroid/Tsuki/releases/latest"><img src="https://img.shields.io/github/v/release/TsukiAndroid/Tsuki?style=for-the-badge&color=8B5CF6&labelColor=1e1b4b&label=LATEST" /></a>
+<a href="https://github.com/TsukiAndroid/Tsuki/commits"><img src="https://img.shields.io/github/last-commit/TsukiAndroid/Tsuki?style=for-the-badge&color=6D28D9&labelColor=1e1b4b&label=LAST+COMMIT" /></a>
 
 </div>
 
-### 🌙 Tsuki: Android Manga Reader
-
-A manga reader built to **never run out of sources**.
+<br/>
 
 | ✨ Feature | 📝 What it does |
 |---|---|
@@ -77,31 +75,25 @@ A manga reader built to **never run out of sources**.
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_DOWNLOAD_TSUKI-F472B6?style=for-the-badge&logoColor=white)](https://github.com/TsukiAndroid/Tsuki/releases/latest)
+[![Download](https://img.shields.io/badge/⬇_DOWNLOAD_TSUKI-F472B6?style=for-the-badge)](https://github.com/TsukiAndroid/Tsuki/releases/latest)
 [![Website](https://img.shields.io/badge/🌐_WEBSITE-8B5CF6?style=for-the-badge)](https://tsukiapp.vercel.app)
 
 </div>
 
-### 🦚 Kujaku: Coming Soon
+### 🦚 [Kujaku](https://github.com/Space4414/Kujaku): Coming Soon
 
 A new manga reader in the works, built on **Dantotsu**. 👀
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=450&lines=⭐+Tsuki+in+Numbers" />
-
 <div align="center">
 
-<a href="https://github.com/TsukiAndroid/Tsuki/stargazers"><img src="https://img.shields.io/github/stars/TsukiAndroid/Tsuki?style=for-the-badge&logo=github&color=F472B6&labelColor=1e1b4b&label=STARS" /></a>
-<a href="https://github.com/TsukiAndroid/Tsuki/fork"><img src="https://img.shields.io/github/forks/TsukiAndroid/Tsuki?style=for-the-badge&logo=github&color=A78BFA&labelColor=1e1b4b&label=FORKS" /></a>
-<img src="https://img.shields.io/badge/DOWNLOADS-1.2K%2B-ec4899?style=for-the-badge&logo=android&logoColor=white&labelColor=1e1b4b" />
-<a href="https://github.com/TsukiAndroid/Tsuki/releases/latest"><img src="https://img.shields.io/github/v/release/TsukiAndroid/Tsuki?style=for-the-badge&color=8B5CF6&labelColor=1e1b4b&label=LATEST" /></a>
+<a href="https://github.com/Space4414/Kujaku"><img src="https://img.shields.io/github/stars/Space4414/Kujaku?style=for-the-badge&logo=github&color=F472B6&labelColor=1e1b4b&label=STARS" /></a>
+<a href="https://github.com/Space4414/Kujaku/commits"><img src="https://img.shields.io/github/last-commit/Space4414/Kujaku?style=for-the-badge&color=6D28D9&labelColor=1e1b4b&label=LAST+COMMIT" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=360&lines=🛠️+Tech+Stack" />
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -118,31 +110,9 @@ A new manga reader in the works, built on **Dantotsu**. 👀
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=400&lines=📊+GitHub+Activity" />
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Space4414&theme=tokyonight&hide_border=true&background=0f0c29&ring=F472B6&fire=F472B6&currStreakLabel=F472B6" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Space4414&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Space4414&bg_color=0f0c29&color=F472B6&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Space4414/Space4414/output/github-snake-dark.svg" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:a78bfa,100:6d28d9&height=3" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=F472B6&repeat=false&height=45&width=320&lines=🎯+Right+Now" />
+## 🎯 Right Now
 
 ```yaml
 building:   Kujaku 🦚
